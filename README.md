@@ -5,7 +5,7 @@ A partially 3D printed PLA shredder made by engineering students at Aalborg Univ
 
 We made this project on the first semester of mechanical engineering at AAU. The project primarily tackled creating a product for private consumers, as there, at the time of writing this, is no realistic solution for this customer group. Through a thorough problem analysis and product generation, the partially 3D printed PLA shredder was born. 
 
-Throughout the project one of the primary design specifications was to make it a low budget. A rough estimate of the production costs was 134€/145$, (calculated with material costs as $/mm^2, includes an estimate of labor, not including 3D printed parts).
+Throughout the project one of the primary design specifications was to make it a low budget. A rough estimate of the production costs was 134€/145$ per unit, (calculated with material costs as $/mm^2, includes an estimate of labor, not including 3D printed parts).
 
 To achieve this several parts were designed to be 3D printed, for example the input and output storage. It was also designed to be a DIY kit containing easily off-the-shelf parts such as bearing units, hexagonal axle and only a couple of different metric fasteners. Lastly it was created to be very compact and have a small footprint. The entire machine size is approximately 40cm tall, 26 cm wide and 30 cm long.
 
