@@ -10,4 +10,3 @@ To achieve this several parts were designed to be 3D printed, for example the in
 
 Disclaimer: There are several elements to this design which have not been tested or verified it can withstand the forces of shredding PLA. Especially the shredder teeth. The design has also never been physically produced, there may be several design oversights/flaws, for example there is not included a gear reduction. In the project is was calculated that the shredder would need a 3:1 reduction to process PLA.
 
-![image](https://user-images.githubusercontent.com/46942649/216668386-12b4e682-6863-42b0-9924-5a50e0ce1ca3.png)
